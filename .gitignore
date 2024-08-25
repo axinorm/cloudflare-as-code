@@ -1,0 +1,8 @@
+.terraform
+.venv
+.vscode
+.DS_Store
+.envrc*
+
+*.tfplan
+.terraform*
